@@ -54,6 +54,8 @@ Henrry Leon
 
 **7.3. PROCEDIMIENTO**
 
+![image](https://user-images.githubusercontent.com/116777118/218129056-9245ae21-dd92-4e2b-8c97-30cdbbf1aa90.png)
+
 a.	Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
 ![image](https://user-images.githubusercontent.com/116777118/218007859-1a1bc7c9-04f6-499d-83d2-fc4f91d089b3.png)
@@ -70,6 +72,104 @@ c.	 Utilice un multímetro para medir la corriente que atraviesa la resistencia 
 ![image](https://user-images.githubusercontent.com/116777118/218008277-f7b24ef0-0db7-4ca1-b777-db60d9e08109.png)
 ![image](https://user-images.githubusercontent.com/116777118/218008372-3cb4641e-d84c-43d7-89b5-a77a1f35afac.png)
 ![image](https://user-images.githubusercontent.com/116777118/218008450-c4b9fc74-5ada-4832-b487-f50fc43d40d5.png)
+
+![image](https://user-images.githubusercontent.com/116777118/218129163-acd5442d-aaf8-4cff-a49c-135e117d6d23.png)
+
+Armamos el circuito de la figura 2:
+
+![image](https://user-images.githubusercontent.com/116777118/218129231-dd8bddc6-780f-4321-9f53-1a19c5ab4c71.png)
+
+Tomamos medidas 
+
+•	0 Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129343-ce7d9e91-4e31-4148-a3a7-9ac7d59450a4.png)
+
+•	10 Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129436-bab62c2a-270d-4963-b6bc-3c4ffd8c0840.png)
+
+•	50Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129523-9a9e8cb5-c77a-4a52-aa1a-6e010d2d0669.png)
+
+•	100Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129573-f89bf222-501c-40da-8563-b59fc6e86b28.png)
+
+•	500Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129627-2947489c-2ca2-4a7d-b398-be9bb2278335.png)
+
+•	1000Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129688-0ebc330e-98f6-4f7b-9aae-0654a4e163fb.png)
+
+Midiendo el voltaje con el multímetro:
+
+•	0Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129753-2e7f8466-f59a-435e-8444-df29d7ef1ebb.png)
+
+•	10Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129810-3a3c1d8d-24b5-4367-ac1f-a2dca6e056e8.png)
+
+•	50Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129870-48881099-5723-427c-b5fd-248ff6a8a7bc.png)
+
+•	100Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218129948-0a62343e-c35b-4103-9213-91fab9fb6d45.png)
+
+•	500Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218130007-b6d3e925-c406-4bae-8b81-3db373aa2a33.png)
+
+•	1000Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218130070-9164b4b0-2427-48ef-8ecf-1ee1dcd05870.png)
+
+Midiendo el amperaje con el multímetro:
+
+•	0Hz
+
+![image](https://user-images.githubusercontent.com/116777118/218130151-10a4df50-334a-40cd-9a12-ba5e4e32124c.png)
+
+•	10Hz
+ 
+ ![image](https://user-images.githubusercontent.com/116777118/218130278-7f47c676-23a6-4776-9f1c-ba2c6bac5f06.png)
+
+•	50Hz
+ 
+ ![image](https://user-images.githubusercontent.com/116777118/218130323-7980c5ea-b783-4741-b6ab-f704e2d5525d.png)
+
+•	100Hz
+ 
+![image](https://user-images.githubusercontent.com/116777118/218130358-2ac63fc3-1db8-403e-a609-63d37ff534c9.png)
+
+•	500Hz
+ 
+ ![image](https://user-images.githubusercontent.com/116777118/218130425-2cfb6233-702b-47cb-8621-a0d45fa71901.png)
+
+•	1000Hz
+ 
+ ![image](https://user-images.githubusercontent.com/116777118/218130465-9e4fc415-b66b-4142-8dc3-223883b5c695.png)
+
+Tablas de resultados 
+
+Valores obtenidos en la simulación por medio del osciloscopio.
+
+![image](https://user-images.githubusercontent.com/116777118/218130632-7a69c39d-d1e0-4091-b26a-ac941704cab0.png)
+
+Valores del voltaje obtenidos en la simulación por medio del multímetro.
+
+![image](https://user-images.githubusercontent.com/116777118/218130720-41896ccc-ec66-483a-8af9-46d47589f01a.png)
+
+Valores del corriente obtenidos en la simulación por medio del multímetro.
+
+![image](https://user-images.githubusercontent.com/116777118/218130844-5314909e-9ff2-4046-8f41-29166de50c89.png)
 
 **7.4. ANALISIS DE RESULTADOS**
 
