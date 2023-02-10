@@ -209,10 +209,13 @@ Se llama valor eficaz de una corriente alterna, al valor que tendría una corrie
 
 **7.7. CONCLUSIONES**
 
-- 
+- La amplitud de la onda senoidal representa la cantidad de corriente eléctrica que fluye en un circuito, mientras que la frecuencia representa el número de ciclos completos de la onda que ocurren en un segundo.
 
-- 
+- La corriente alterna es un tipo de corriente eléctrica en la que la dirección del flujo de electrones cambia constantemente de acuerdo a cambios de la polaridad del voltaje de fuente.
 
+- El voltaje alterno es más adecuado para alimentar motores eléctricos debido a su capacidad para variar su frecuencia, lo que permite controlar la velocidad del motor, además dos fuentes comunes de ondas seno son el generador de ca electromagnético y el circuito oscilador electrónico.
+
+- Los capacitores son componentes electrónicos que almacenan electricidad en un campo eléctrico y esto permite filtrar las señales de corriente alterna para permitir que solo pase la corriente continua deseada, además aumentan la eficiencia de la transmisión de energía.
 
 
 
