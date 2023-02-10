@@ -16,8 +16,15 @@ Henrry Leon
 
 **OBJETIVOS ESPECÍFICOS**
 
+- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 
-**2.2. MARCO TEORICO:**
+- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+
+- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
+- Familiarizarse con el uso de instrumentos de medida.
+
+**7.2. MARCO TEORICO:**
 
 ![Inductor](https://user-images.githubusercontent.com/116777118/218017483-f9cfb7e9-7bdc-42cb-b675-e66839a963ba.png)
 
@@ -66,7 +73,7 @@ c.	 Utilice un multímetro para medir la corriente que atraviesa la resistencia 
 
 **7.4. ANALISIS DE RESULTADOS**
 
-Tablas de resultados 
+- Tablas de resultados 
 
 Valores obtenidos en la simulación por medio del osciloscopio.
 
@@ -82,21 +89,21 @@ Valores de la corriente en la resistencia, obtenidos en la simulación por medio
 
 **7.5. PREGUNTAS**
 
-1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+**1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
-Si se aplica corriente continua (corriente que no varía con el tiempo) a un inductor, este se comporta como un corto circuito y dejará pasar la corriente a través de ella sin ninguna oposición.
+El capacitor no trabaja en corriente continua ya que al hacerlo se carga completamente, porque llega a convertirse en un circuito abierto, mientras que la bobina se comporta como un corto circuito dejando pasar la corriente a través de ella sin ninguna oposición.
 
-2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+**2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
 
-Se comporta como un circuito abierto para todos los casos. Cuando unimos el capacitor a una fuente de voltaje alterno, cambia el voltaje en las placas, de acuerdo al cambio del voltaje de la fuente
+La bobina se tomará como un elemento pasivo dentro del circuito, el capacitador también se le tomara como un elemento pasivo ya que su comportamiento dependerá de las funciones que describan su comportamiento.
 
-3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+**3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?**
 
-El votaje 
+Al colocar dos bobinas o dos capacitores de diferente denominación en el circuito, se facilita los cálculos al momento de encontrar el valor de Vo porque podemos reducir a su mínima expresión usando el concepto de fasores, en los cuales a las impedancias y a las inductancias las convertimos al dominio fasorial y se representaría como una caja en el circuito a la cual podemos reducirle por el concepto de serie y paralelo. No pasaría absolutamente nada además de que los valores de Vo llegarían a variar lo que significaría que la impedancia total cambiaria.
 
-4.- ¿Qué son los valores eficaces de voltaje y corriente?
+**4.- ¿Qué son los valores eficaces de voltaje y corriente?**
 
-Es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia
+Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicarla sobre una misma resistencia. Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en corriente continua es decir que tendrán el mismo comportamiento respecto a potencia suministrada en el circuito.
 
 **7.6. VIDEO**
 
