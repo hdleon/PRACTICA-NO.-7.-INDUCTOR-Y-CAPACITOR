@@ -217,6 +217,7 @@ Se llama valor eficaz de una corriente alterna, al valor que tendría una corrie
 
 - Los capacitores son componentes electrónicos que almacenan electricidad en un campo eléctrico y esto permite filtrar las señales de corriente alterna para permitir que solo pase la corriente continua deseada, además aumentan la eficiencia de la transmisión de energía.
 
+- Los inductores se utilizan para almacenar energía en forma de campo magnético y para regular la corriente eléctrica en un circuito. Además  tienen propiedades únicas, como la inductancia, que es la capacidad de almacenar energía en un campo magnético, son utilizados en una variedad de circuitos, incluyendo transformadores, filtros, y reguladores de voltaje.
 
 
 
