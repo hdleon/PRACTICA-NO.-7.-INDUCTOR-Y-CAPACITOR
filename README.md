@@ -207,6 +207,8 @@ Se llama valor eficaz de una corriente alterna, al valor que tendría una corrie
 
 **7.6. VIDEO**
 
+https://youtu.be/XUcpyt0tgB0
+
 **7.7. CONCLUSIONES**
 
 - La amplitud de la onda senoidal representa la cantidad de corriente eléctrica que fluye en un circuito, mientras que la frecuencia representa el número de ciclos completos de la onda que ocurren en un segundo.
